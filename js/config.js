@@ -47,7 +47,7 @@ const API_SITES = {
     },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源",
+      "name": "暴风资源"
     },
     "slzy": {
       "api": "https://suoniapi.com/api.php/provide/vod",
@@ -740,7 +740,7 @@ const API_SITES = {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
     }
-};
+  };
 
 // 定义合并方法
 function extendAPISites(newSites) {
